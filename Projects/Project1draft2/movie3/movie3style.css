@@ -1,6 +1,6 @@
 h2{
   color:white;
-  background-color: #0078D4;
+  background-color: #FD6A02;
 }
 td{
   width: 250px;
@@ -10,7 +10,7 @@ img{
   width: 100%
 }
 table{
-  border-color: #0078D4;
+  border-color: #FD6A02;
   border: dashed;
   margin-left: 5px;
   float: left;
@@ -22,11 +22,11 @@ div{
   border: solid;
 }
 p{
-  color: #0078D4;
+  color: #FD6A02;
   font:bolder;
 }
 h3{
-  color:#0078D4;
+  color:#FD6A02;
 }
 #gif{
   float: left;

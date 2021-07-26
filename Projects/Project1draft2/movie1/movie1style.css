@@ -1,0 +1,37 @@
+h2{
+  color:white;
+  background-color: #1cbaa4;
+}
+td{
+  width: 250px;
+  border: solid;
+}
+img{
+  width: 100%
+}
+table{
+  border-color: #1cbaa4;
+  border: dashed;
+  margin-left: 5px;
+  float: left;
+}
+#2nd{
+  border: solid
+}
+div{
+  border: solid;
+}
+p{
+  color: #1cbaa4;
+  font:bolder;
+}
+h3{
+  color:#1cbaa4;
+}
+#gif{
+  float: left;
+  width: 720px;
+  height:465px;
+  border: dashed;
+  margin-left: 5px;
+}
